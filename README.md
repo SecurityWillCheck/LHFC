@@ -1,1 +1,1 @@
-# LHFCollector
+# Low Hanging Fruit Collector
