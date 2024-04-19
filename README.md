@@ -2,6 +2,13 @@
 
 A simple tool to collate testssl.sh output, especially useful when conducting SSL/TLS scans on multiple hosts.
 
+## Installation
+
+`git clone https://github.com/SecurityWillCheck/LHFC.git`\
+`cd LHFC`\
+`chmod +x lhfc.py`\
+`pip install -r requirements.txt`
+
 ## Usage
 
 Best and most effective usage of the tool:
@@ -18,5 +25,4 @@ You'll get a CSV file with the output
 
 1. testssl.sh - https://github.com/drwetter/testssl.sh
 2. OpenSSl - https://www.openssl.org/source/ 
-3. Pandas - https://pandas.pydata.org/
 
